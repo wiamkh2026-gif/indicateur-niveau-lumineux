@@ -16,8 +16,8 @@ const int SEUIL_NOIR  = 33;
 
 const bool MODULE_INVERSE = true;
 
-#define WIFI_SSID "test"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "Wokwi-GUEST"
+#define WIFI_PASS ""
 
 WebServer server(80);
 
